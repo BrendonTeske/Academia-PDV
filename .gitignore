@@ -1,0 +1,70 @@
+# Delphi / RAD Studio build outputs
+*.dcu
+*.dcuil
+*.dcp
+*.drc
+*.res
+*.rsp
+*.map
+*.identcache
+*.tvsconfig
+*.stat
+
+# Executables and libraries
+*.exe
+*.dll
+*.bpl
+*.bpi
+*.apk
+*.ipa
+*.app
+
+# Debug symbols and memory managers
+*.tds
+*.rsm
+*.jdbg
+*.dsk
+*.skincfg
+
+# Project-local and machine-specific files
+*.local
+*.dproj.local
+*.groupproj.local
+*.vlb
+*.~*
+*.bak
+*.tmp
+*.temp
+
+# Delphi IDE history / backups
+__history/
+*.~??
+*.~???
+*.~?????
+
+# Build folders (common)
+Win32/Debug/
+Win32/Release/
+Win64/Debug/
+Win64/Release/
+Debug/
+Release/
+Android/
+iOSDevice64/
+iOSSimulator/
+OSX32/
+OSX64/
+Linux64/
+
+# Package / deployment outputs
+__recovery/
+__astcache/
+*.deployproj.local
+
+# Logs
+*.log
+
+# OS / editor clutter
+.DS_Store
+Thumbs.db
+desktop.ini
